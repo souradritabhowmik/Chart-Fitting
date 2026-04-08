@@ -1,10 +1,6 @@
-# NE111-Final-Project
-The purpose of this program is to be able to provide a tool for fitting histograms to statistical data.
+view:
+https://distribution-fit.streamlit.app/
 
-to run:
-**bash**
-streamlit run distribution_fitting_app.py
-
-- Input data using either manual entry or CSV upload
+- Inputs data using either manual entry or CSV upload
 - Auto-fit distributions
 - Experiment with manual fitting in the third tab
